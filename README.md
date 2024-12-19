@@ -19,3 +19,50 @@
 - All features of the tech stack should be used
 - Make it responsive
 - Fork this repository and submit your implementation
+
+
+# Todo App
+
+This is a React application. Follow the instructions below to set it up and run it locally.
+
+## Prerequisites
+
+Ensure you have the following installed on your system:
+
+- [Node.js](https://nodejs.org/) (v14 or later recommended)
+- npm (comes with Node.js)
+
+## Getting Started
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/Bereket234/frontend-challenge.git
+   cd frontend-challenge
+   ```
+
+2. **Install dependencies:**
+
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server:**
+
+   ```bash
+   npm start
+   ```
+
+## Folder Structure
+
+```
+src/
+├── components/
+│   ├── Button/
+│   ├── Input/
+│   ├── List/
+│   ├── TodoItem/
+├── state/
+│   ├── todoState.ts
+├── App.tsx
+```
