@@ -52,17 +52,3 @@ Ensure you have the following installed on your system:
    ```bash
    npm start
    ```
-
-## Folder Structure
-
-```
-src/
-├── components/
-│   ├── Button/
-│   ├── Input/
-│   ├── List/
-│   ├── TodoItem/
-├── state/
-│   ├── todoState.ts
-├── App.tsx
-```
